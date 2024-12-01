@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+.weather-app {
+  margin-top: 20px;
+}
+
+.weather-display {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav .nav-link {
+  margin-right: 15px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
